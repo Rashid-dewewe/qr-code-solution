@@ -1,2 +1,2 @@
 # front end mentor problem
- this repository contains solution for the front end mentor problem(web project)
+solution for front end mentor Qr code problem using html5 and css3.
